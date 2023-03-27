@@ -1,7 +1,7 @@
-master 1
+login master 1
 -
-L2
+login L2
 -
-R3
+login R3
 -
 LRL4
