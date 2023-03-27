@@ -1,4 +1,4 @@
-login 12
+login master 1
 -
 login L2
 -
